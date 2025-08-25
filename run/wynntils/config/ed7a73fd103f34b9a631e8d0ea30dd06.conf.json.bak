@@ -1,0 +1,28 @@
+{
+  "wynntils.upfixers": [
+    "custom_poi_visibility",
+    "customCommandKeybindSlashStart",
+    "gameBarOverlayMove",
+    "enumNaming",
+    "customPoiIconEnumBug",
+    "questBookToContentRenamedConfigs",
+    "mapToMainMapRenamedConfigs",
+    "overlayRestructuring",
+    "overlayConfigsIntegration",
+    "customBankQuickJumps",
+    "customBankQuickJumpsBankName",
+    "npcDialoguesRenamed",
+    "npcDialoguesOverlayConfigsMoved",
+    "towerAuraVignetteName",
+    "towerAuraVignetteAndOverlayMovedToCommonFeature",
+    "combatXpGainToXpGain",
+    "professionBadgesToLeaderboardBadges",
+    "tradeMarketAutoOpenChatToTradeMarketQuickSearch",
+    "sacredSurgeToHolyPower",
+    "universalBarOverlayColorToColorTemplate",
+    "wynntilsContentBookReplaceToShiftBehaviour",
+    "durabilityArcToDurabilityOverlay",
+    "mobTotemTimerOverlayFeatureToBonusTotemTimerOverlayFeature",
+    "itemHighlightFeatureCosmeticToStore"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "wynntils.upfixers": [
+    "bankToAccountBank",
+    "updateChangelogToModel"
+  ],
+  "feature.customTerritoryManagementScreen.screenHighlightLegend": true,
+  "feature.customTerritoryManagementScreen.screenTerritoryProductionTooltip": true,
+  "feature.mappingProgress.mappedChunks": [],
+  "feature.professionHighlight.selectedProfession": null,
+  "feature.professionHighlight.selectionPerContainer": {},
+  "feature.silencer.originalVolume": 1.0,
+  "feature.weeklyConfigBackup.lastBackup": 1756066461094,
+  "feature.wynncraftButton.ignoreFailedDownloads": false,
+  "manager.crowdSourcedData.collectedData": {
+    "data": {}
+  },
+  "model.account.silverbullExpiresAt": 1756574092890,
+  "model.account.silverbullSubscriber": "true",
+  "model.bank.customAccountBankPageNames": {},
+  "model.bank.customBlockBankPageNames": {},
+  "model.bank.customBookshelfPageNames": {},
+  "model.bank.customCharacterBankPagesNames": {},
+  "model.bank.customMiscBucketPageNames": {},
+  "model.bank.finalAccountBankPage": 21,
+  "model.bank.finalBlockBankPage": 12,
+  "model.bank.finalBookshelfPage": 10,
+  "model.bank.finalCharacterBankPages": {},
+  "model.bank.finalMiscBucketPage": 10,
+  "model.itemEncoding.extendedIdentificationEncoding": false,
+  "model.itemEncoding.shareItemName": true,
+  "model.lootChest.dryBoxes": 0,
+  "model.lootChest.dryCount": 0,
+  "model.lootChest.dryEmeralds": 0,
+  "model.lootChest.dryItemTiers": {},
+  "model.lootChest.mythicFinds": [],
+  "model.lootChest.openedChestCount": 0,
+  "model.lootrun.dryPulls": 0,
+  "model.lootrun.expectedPulls": -1,
+  "model.lootrun.lootrunDetailsStorage": {
+    "b34c72f4": {
+      "selectedBeacons": {},
+      "lastTaskBeaconColor": null,
+      "lastTaskVibrantBeacon": false,
+      "closestBeacon": null,
+      "redBeaconTaskCount": 0,
+      "orangeBeaconCounts": [],
+      "orangeAmount": -1,
+      "rainbowBeaconCount": 0,
+      "rainbowAmount": -1,
+      "missions": [],
+      "sacrifices": 0,
+      "rerolls": 0
+    }
+  },
+  "model.profession.professionDryStreak": 0,
+  "model.raid.bestTimes": {},
+  "model.raid.expectedNumAspectPulls": -1,
+  "model.raid.expectedNumRewardPulls": -1,
+  "model.raid.numAspectPullsWithoutMythicAspect": 0,
+  "model.raid.numRaidsWithoutMythicAspect": 0,
+  "model.raid.numRaidsWithoutMythicTome": 0,
+  "model.raid.numRewardPullsWithoutMythicTome": 0,
+  "model.skillPoint.skillPointLoadouts": {},
+  "model.tradeMarket.presetFilters": {},
+  "model.war.historicWars": [],
+  "service.itemFilter.presets": [],
+  "service.itemRecord.categories": [
+    "Uncategorized"
+  ],
+  "service.itemRecord.faultyItems": [],
+  "service.itemRecord.savedItems": [],
+  "service.poi.customPoiProviders": [],
+  "service.resourcePack.resourcePackIdHash": {
+    "a": "09358885-9740-3eb4-a4ad-405bd0c01b71",
+    "b": "6e0f70ae42bca1ff087cb390b3686518d856bd63"
+  },
+  "service.statistics.screenOverallMode": true,
+  "service.statistics.statistics": {
+    "b34c72f4": {}
+  },
+  "service.update.ignoredUpdate": "",
+  "service.update.lastShownChangelogVersion": "v3.2.6"
+}

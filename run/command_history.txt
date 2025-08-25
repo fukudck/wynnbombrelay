@@ -1,0 +1,25 @@
+/say bomb
+/me bomb
+/say bomb
+/say 󏿼󏿿󏿾 BigHugeBrain has thrown a Profession Speed Bomb on NA9
+/say BigHugeBrain has thrown a Profession Speed Bomb on NA9
+/say 󏿼󏿿󏿾 BigHugeBrain has thrown a Profession Speed Bomb on NA9
+/tellraw 󏿼󏿿󏿾
+/tellraw @p 󏿼󏿿󏿾
+/tellraw @p Hello
+/tellraw @p [""]
+/tellraw @p ["󏿼󏿿󏿾"]
+/tellraw @p ["󏿼󏿿󏿾 BigHugeBrain has thrown a Profession Speed Bomb on NA9"]
+/msg @a 󏿼󏿿󏿾 BigHugeBrain has thrown a Profession Speed Bomb on NA9
+/msg 󏿼󏿿󏿾 BigHugeBrain has thrown a Profession Speed Bomb on NA9
+/bombbell get
+/bombbell get PROFESSION_XP
+/class
+/bombbell get
+/bombbell get COMBAT_XP
+/bombbell get PROFESSION_SPEED
+/bombbell get PROFESSION_XP
+/bombbell get DUNGEON
+/kill
+/gamemode creative
+/gamemode spectator
