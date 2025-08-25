@@ -172,9 +172,9 @@ key_Open Emerald Pouch Guide:key.keyboard.unknown
 key_Open Guides List:key.keyboard.unknown
 key_Gammabright:key.keyboard.g
 key_Toggle Silencer:key.keyboard.unknown
-soundCategory_master:0.0
+soundCategory_master:1.0
 soundCategory_music:1.0
-soundCategory_record:1.0
+soundCategory_record:0.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0

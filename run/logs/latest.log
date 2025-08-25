@@ -1,5 +1,5 @@
-[16:05:33] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
-[16:05:33] [main/INFO] (FabricLoader) Loading 58 mods:
+[21:18:12] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
+[21:18:13] [main/INFO] (FabricLoader) Loading 58 mods:
 	- authme 9.0.1+1.21.4
 	- fabric-api 0.119.2+1.21.4
 	- fabric-api-base 0.4.54+b47eab6b04
@@ -58,93 +58,46 @@
 	- resourcefulconfig 3.4.3
 	- wynnbombrelay 1.0-SNAPSHOT
 	- wynntils 3.2.6
-[16:05:38] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Fukudck/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/22f9eb729e216a091673a574a5906dc1b9027fb3/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
-[16:05:38] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[16:05:38] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
-[16:05:40] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[16:05:43] [Datafixer Bootstrap/INFO] (Minecraft) 243 Datafixer optimizations took 704 milliseconds
-[16:05:52] [Render thread/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:05:52] [Render thread/INFO] (Minecraft) Setting user: Player304
-[16:05:53] [Render thread/INFO] (Minecraft) [STDOUT]: Resourceful Config Demo is enabled!
-[16:05:53] [Render thread/INFO] (Minecraft) [STDOUT]: Old Value: true New Value: true
-[16:05:53] [Render thread/INFO] (wynntils) Wynntils: Starting version v3.2.6 (using FABRIC on Minecraft 1.21.4)
-[16:05:53] [Render thread/INFO] (wynntils) Loading urls.json in the normal mode. Url cache is used.
-[16:05:54] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
-[16:05:55] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.3-snapshot
-[16:05:55] [ForkJoinPool.commonPool-worker-1/INFO] (wynntils) Merged URL list. Version: 13, URLs: 47
-[16:05:55] [ForkJoinPool.commonPool-worker-1/INFO] (wynntils) totalGlobalLevel leaderboard position 1 is redacted.
-[16:05:55] [ForkJoinPool.commonPool-worker-1/INFO] (wynntils) namelessSrPlayers leaderboard position 3 is redacted.
-[16:05:55] [ForkJoinPool.commonPool-worker-2/INFO] (wynntils) colossusSrPlayers leaderboard position 5 is redacted.
-[16:05:55] [ForkJoinPool.commonPool-worker-3/INFO] (wynntils) armouringLevel leaderboard position 4 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-2/INFO] (wynntils) miningLevel leaderboard position 1 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-2/INFO] (wynntils) miningLevel leaderboard position 8 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-2/INFO] (wynntils) jewelingLevel leaderboard position 7 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-3/INFO] (wynntils) fishingLevel leaderboard position 3 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-2/INFO] (wynntils) craftsmanContent leaderboard position 9 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-3/INFO] (wynntils) weaponsmithingLevel leaderboard position 4 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-3/INFO] (wynntils) weaponsmithingLevel leaderboard position 6 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-3/INFO] (wynntils) professionsGlobalLevel leaderboard position 1 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-3/INFO] (wynntils) warsCompletion leaderboard position 1 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-3/INFO] (wynntils) grootslangSrPlayers leaderboard position 1 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-3/INFO] (wynntils) totalSoloLevel leaderboard position 6 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-3/INFO] (wynntils) totalSoloLevel leaderboard position 8 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-3/INFO] (wynntils) grootslangCompletion leaderboard position 1 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-2/INFO] (wynntils) woodworkingLevel leaderboard position 6 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-2/INFO] (wynntils) farmingLevel leaderboard position 5 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-2/INFO] (wynntils) farmingLevel leaderboard position 9 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-1/INFO] (wynntils) globalPlayerContent leaderboard position 1 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-1/INFO] (wynntils) ultimateIronmanContent leaderboard position 8 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-2/INFO] (wynntils) professionsSoloLevel leaderboard position 3 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-2/INFO] (wynntils) professionsSoloLevel leaderboard position 5 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-5/INFO] (wynntils) cookingLevel leaderboard position 6 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-5/INFO] (wynntils) cookingLevel leaderboard position 8 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-5/INFO] (wynntils) colossusCompletion leaderboard position 7 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-6/INFO] (wynntils) alchemismLevel leaderboard position 5 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-4/INFO] (wynntils) scribingLevel leaderboard position 7 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-4/INFO] (wynntils) woodcuttingLevel leaderboard position 1 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-4/INFO] (wynntils) woodcuttingLevel leaderboard position 2 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-4/INFO] (wynntils) woodcuttingLevel leaderboard position 3 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-8/INFO] (wynntils) tailoringLevel leaderboard position 5 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-4/INFO] (wynntils) woodcuttingLevel leaderboard position 7 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-2/INFO] (wynntils) hichContent leaderboard position 8 is redacted.
-[16:05:56] [ForkJoinPool.commonPool-worker-5/INFO] (wynntils) huichContent leaderboard position 1 is redacted.
-[16:05:57] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, authme, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-gametest-api-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, resourcefulconfig, wynntils
-[16:05:57] [Worker-Main-3/INFO] (Minecraft) Found unifont_jp_patch-16.0.01.hex, loading
-[16:05:57] [Worker-Main-2/INFO] (Minecraft) Found unifont_all_no_pua-16.0.01.hex, loading
-[16:05:57] [ForkJoinPool.commonPool-worker-3/WARN] (wynntils) Unknown stat type: soulPointRegen
-[16:05:57] [ForkJoinPool.commonPool-worker-3/WARN] (wynntils) Unknown stat type: soulPointRegen
-[16:05:57] [ForkJoinPool.commonPool-worker-3/WARN] (wynntils) Unknown stat type: soulPointRegen
-[16:05:57] [ForkJoinPool.commonPool-worker-3/WARN] (wynntils) Unknown stat type: soulPointRegen
-[16:05:57] [ForkJoinPool.commonPool-worker-3/WARN] (wynntils) Unknown stat type: soulPointRegen
-[16:05:57] [ForkJoinPool.commonPool-worker-3/WARN] (wynntils) Unknown stat type: soulPointRegen
-[16:05:57] [ForkJoinPool.commonPool-worker-3/WARN] (wynntils) Unknown stat type: soulPointRegen
-[16:05:57] [ForkJoinPool.commonPool-worker-3/WARN] (wynntils) Unknown stat type: soulPointRegen
-[16:05:57] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown combat type in combat.json: Caves
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: elementalDefense
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: soulPointRegen
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: healing
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: agility
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: baseAirDamage
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: baseAirDefence
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: baseDamage
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: baseEarthDamage
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: baseEarthDefence
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: baseFireDamage
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: baseFireDefence
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: baseHealth
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: baseThunderDamage
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: baseThunderDefence
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: baseWaterDamage
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: baseWaterDefence
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: defence
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: dexterity
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: intelligence
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: strength
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: fireSpellDamageBonus
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: thunderMeleeDamageBonusRaw
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: maxMana
-[16:05:57] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type for identification key: mainAttackFireDamage
-[16:05:57] [ForkJoinPool.commonPool-worker-5/ERROR] (wynntils) Failed to parse public key.
+[21:18:18] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Fukudck/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/22f9eb729e216a091673a574a5906dc1b9027fb3/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[21:18:18] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[21:18:18] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
+[21:18:18] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[21:18:19] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:18:22] [Datafixer Bootstrap/INFO] (Minecraft) 243 Datafixer optimizations took 651 milliseconds
+[21:18:30] [Render thread/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:18:30] [Render thread/INFO] (Minecraft) Setting user: Player618
+[21:18:30] [Render thread/INFO] (Minecraft) [STDOUT]: Resourceful Config Demo is enabled!
+[21:18:30] [Render thread/INFO] (Minecraft) [STDOUT]: Old Value: true New Value: true
+[21:18:31] [Render thread/INFO] (wynntils) Wynntils: Starting version v3.2.6 (using FABRIC on Minecraft 1.21.4)
+[21:18:31] [Render thread/INFO] (wynntils) Loading urls.json in the normal mode. Url cache is used.
+[21:18:32] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
+[21:18:32] [ForkJoinPool.commonPool-worker-1/INFO] (wynntils) Merged URL list. Version: 13, URLs: 47
+[21:18:32] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.3-snapshot
+[21:18:33] [ForkJoinPool.commonPool-worker-2/INFO] (wynntils) colossusCompletion leaderboard position 7 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-2/INFO] (wynntils) warsCompletion leaderboard position 1 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-2/INFO] (wynntils) farmingLevel leaderboard position 5 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-2/INFO] (wynntils) farmingLevel leaderboard position 9 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-2/INFO] (wynntils) colossusSrPlayers leaderboard position 5 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-2/INFO] (wynntils) miningLevel leaderboard position 1 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-2/INFO] (wynntils) miningLevel leaderboard position 8 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-3/INFO] (wynntils) globalPlayerContent leaderboard position 1 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-3/INFO] (wynntils) jewelingLevel leaderboard position 7 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-3/INFO] (wynntils) totalGlobalLevel leaderboard position 1 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-3/INFO] (wynntils) totalSoloLevel leaderboard position 6 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-3/INFO] (wynntils) totalSoloLevel leaderboard position 8 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-7/INFO] (wynntils) professionsSoloLevel leaderboard position 3 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-7/INFO] (wynntils) professionsSoloLevel leaderboard position 5 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-5/INFO] (wynntils) namelessSrPlayers leaderboard position 3 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-9/INFO] (wynntils) grootslangSrPlayers leaderboard position 1 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-9/INFO] (wynntils) weaponsmithingLevel leaderboard position 4 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-9/INFO] (wynntils) weaponsmithingLevel leaderboard position 6 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-9/INFO] (wynntils) professionsGlobalLevel leaderboard position 1 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-9/INFO] (wynntils) armouringLevel leaderboard position 4 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-9/INFO] (wynntils) ultimateIronmanContent leaderboard position 8 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-6/INFO] (wynntils) scribingLevel leaderboard position 7 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-6/INFO] (wynntils) grootslangCompletion leaderboard position 1 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-6/INFO] (wynntils) alchemismLevel leaderboard position 5 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-1/ERROR] (wynntils) Failed to parse public key.
 com.mojang.authlib.exceptions.InvalidCredentialsException: ForbiddenOperationException
 	at knot/com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:49) ~[authlib-6.0.57.jar:?]
 	at knot/com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.joinServer(YggdrasilMinecraftSessionService.java:81) ~[authlib-6.0.57.jar:?]
@@ -163,160 +116,187 @@ com.mojang.authlib.exceptions.InvalidCredentialsException: ForbiddenOperationExc
 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[16:05:58] [ForkJoinPool.commonPool-worker-5/WARN] (wynntils) Charm of the Void's stat gatherXpBonus has a range mismatch: API <14-21> vs calculated <5-23>
-[16:05:58] [ForkJoinPool.commonPool-worker-8/WARN] (wynntils) Failed to parse material for Creeper Mask
-[16:05:58] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Failure in net manager [handleJsonObject], processing API:API_ATHENA_AUTH_RESPONSE: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
-[16:05:58] [ForkJoinPool.commonPool-worker-4/ERROR] (wynntils) Error while processing network request; ignored
-[16:05:58] [ForkJoinPool.commonPool-worker-8/WARN] (wynntils) Failed to parse material for Mama Zomble's Memory
-[16:05:58] [ForkJoinPool.commonPool-worker-8/WARN] (wynntils) Item DB does not contain an icon for Pumpkin Helmet
-[16:05:58] [ForkJoinPool.commonPool-worker-8/WARN] (wynntils) Failed to parse material for Pumpkin Helmet
-[16:05:58] [ForkJoinPool.commonPool-worker-8/INFO] (wynntils) [DownloadManager] Downloads finished.
-[16:05:58] [ForkJoinPool.commonPool-worker-8/INFO] (wynntils) [DownloadManager] Downloads succeeded.
-[16:05:58] [Render thread/INFO] (wynntils) Checking for update for stream release.
-[16:05:58] [ForkJoinPool.commonPool-worker-8/INFO] (wynntils) Mod is on latest version, not attempting update reminder or auto-update.
-[16:05:59] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
-[16:05:59] [Render thread/INFO] (Minecraft) Sound engine started
-[16:05:59] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
-[16:05:59] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[16:05:59] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[16:05:59] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[16:05:59] [Render thread/INFO] (Minecraft) Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[16:05:59] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[16:05:59] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[16:05:59] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[16:05:59] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[16:05:59] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
-[16:06:00] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
-[16:06:00] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
-[16:06:00] [Render thread/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[16:06:00] [Render thread/INFO] (Minecraft) Created: 1024x1024x0 minecraft:textures/atlas/gui.png-atlas
-[16:06:00] [Render thread/ERROR] (Minecraft) Illegal option value  for translation{key='options.audioDevice', args=[]}
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "custom_poi_visibility" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "customCommandKeybindSlashStart" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "gameBarOverlayMove" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "enumNaming" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "customPoiIconEnumBug" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "questBookToContentRenamedConfigs" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "mapToMainMapRenamedConfigs" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "overlayRestructuring" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "overlayConfigsIntegration" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "customBankQuickJumps" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "customBankQuickJumpsBankName" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "npcDialoguesRenamed" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "npcDialoguesOverlayConfigsMoved" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "towerAuraVignetteName" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "towerAuraVignetteAndOverlayMovedToCommonFeature" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "combatXpGainToXpGain" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "professionBadgesToLeaderboardBadges" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "tradeMarketAutoOpenChatToTradeMarketQuickSearch" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "sacredSurgeToHolyPower" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "universalBarOverlayColorToColorTemplate" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "wynntilsContentBookReplaceToShiftBehaviour" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "durabilityArcToDurabilityOverlay" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "mobTotemTimerOverlayFeatureToBonusTotemTimerOverlayFeature" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "itemHighlightFeatureCosmeticToStore" to config file.
-[16:06:01] [Render thread/INFO] (wynntils) Creating default config file with 1082 config values.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "bankToAccountBank" to storage file.
-[16:06:01] [Render thread/INFO] (wynntils) Applied upfixer "updateChangelogToModel" to storage file.
-[16:06:01] [Render thread/INFO] (wynntils) Wynntils: 158 features and 303 functions are now loaded and ready
-[16:06:02] [Render thread/INFO] (wynntils) Created backup of user config file: 2b98548a5e093029b082b4c99d31d926.conf.json
-[16:06:02] [Render thread/INFO] (wynntils) Created backup of user storage file: 2b98548a5e093029b082b4c99d31d926.data.json
-[16:06:07] [Render thread/INFO] (Auth Me) Adding auth button to the multiplayer screen
-[16:06:07] [ForkJoinPool.commonPool-worker-8/INFO] (Auth Me) Verifying Minecraft session...
-[16:06:07] [ForkJoinPool.commonPool-worker-8/ERROR] (Auth Me) Could not validate the Minecraft session!
-com.mojang.authlib.exceptions.InvalidCredentialsException: ForbiddenOperationException
-	at knot/com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:49) ~[authlib-6.0.57.jar:?]
-	at knot/com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.joinServer(YggdrasilMinecraftSessionService.java:81) ~[authlib-6.0.57.jar:?]
-	at knot/me.axieum.mcmod.authme.api.util.SessionUtils.lambda$getStatus$1(SessionUtils.java:159) ~[authme-9.0.1+1.21.4-64b5720b4b825f21.jar:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
-	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
-	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
-	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
-	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
-	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[16:06:11] [pool-12-thread-1/INFO] (Auth Me) Acquiring Microsoft auth code...
-[16:06:11] [pool-12-thread-1/INFO] (Auth Me) Launching Microsoft login in browser: https://login.microsoftonline.com/consumers/oauth2/v2.0/authorize?client_id=e16699bb-2aa8-46da-b5e3-45cbcce29091&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A25585%2Fcallback&scope=XboxLive.signin+offline_access&state=RHyPwFz8-Os0a1kxXB3Kpg
-[16:06:11] [pool-12-thread-1/INFO] (Auth Me) Begin listening on http://localhost:25585/callback for a successful Microsoft login...
-[16:06:12] [pool-12-thread-1/INFO] (Auth Me) Acquired Microsoft auth code! (M.C552_SN1.2.U....6-fb5d18045e3b)
-[16:06:14] [pool-12-thread-1/INFO] (Auth Me) Exchanging Microsoft auth code for an access token...
-[16:06:14] [pool-12-thread-1/INFO] (Auth Me) [POST] https://login.microsoftonline.com/consumers/oauth2/v2.0/token (timeout=30s)
-[16:06:18] [pool-12-thread-1/INFO] (Auth Me) Acquired Microsoft access token! (EwD4A+pvBAAUKod...4aX7hEU9Wz7wI=)
-[16:06:18] [pool-12-thread-1/INFO] (Auth Me) Exchanging Microsoft access token for an Xbox Live access token...
-[16:06:18] [pool-12-thread-1/INFO] (Auth Me) [POST] https://user.auth.xboxlive.com/user/authenticate (timeout=30s)
-[16:06:19] [pool-12-thread-1/INFO] (Auth Me) Acquired Xbox Live access token! (eyJhbGciOiJSU0E...ttBC-hWLwotkvw)
-[16:06:19] [pool-12-thread-1/INFO] (Auth Me) Exchanging Xbox Live token for an Xbox Live XSTS token...
-[16:06:19] [pool-12-thread-1/INFO] (Auth Me) [POST] https://xsts.auth.xboxlive.com/xsts/authorize (timeout=30s)
-[16:06:19] [pool-12-thread-1/INFO] (Auth Me) Acquired Xbox Live XSTS token! (token=eyJlbmMiOiJBMTI...Kg6y0Eo-tvmh7Q, uhs=7624019977124223485)
-[16:06:19] [pool-12-thread-1/INFO] (Auth Me) Exchanging Xbox Live XSTS token for a Minecraft access token...
-[16:06:19] [pool-12-thread-1/INFO] (Auth Me) [POST] https://api.minecraftservices.com/authentication/login_with_xbox (timeout=30s)
-[16:06:20] [pool-12-thread-1/INFO] (Auth Me) Acquired Minecraft access token! (eyJraWQiOiIwNDk...6EI7IHbO_anZkg)
-[16:06:20] [pool-12-thread-1/INFO] (Auth Me) Fetching Minecraft profile...
-[16:06:20] [pool-12-thread-1/INFO] (Auth Me) [GET] https://api.minecraftservices.com/minecraft/profile (timeout=30s)
-[16:06:20] [pool-12-thread-1/INFO] (Auth Me) Fetched Minecraft profile! (name=1NotherF, uuid=f8cc6201-2fbe-44ae-8344-a3b459c9c2d9)
-[16:06:20] [pool-12-thread-1/INFO] (Auth Me) Minecraft session for 1NotherF (uuid=f8cc6201-2fbe-44ae-8344-a3b459c9c2d9) has been applied
-[16:06:20] [pool-12-thread-1/INFO] (Auth Me) Successfully logged in via Microsoft!
-[16:06:20] [Render thread/INFO] (Auth Me) Adding auth button to the multiplayer screen
-[16:06:20] [ForkJoinPool.commonPool-worker-8/INFO] (Auth Me) Verifying Minecraft session...
-[16:06:21] [ForkJoinPool.commonPool-worker-8/INFO] (Auth Me) The Minecraft session is valid
-[16:06:22] [Render thread/INFO] (Minecraft) Connecting to play.wynncraft.com, 25565
-[16:06:23] [Render thread/WARN] (Minecraft) Client disconnected with reason: Transferred to another server
-[16:06:23] [Render thread/INFO] (wynntils) No preloaded pack, or it was disabled, clearing server pack, checking if a reload should trigger.
-[16:06:23] [Render thread/INFO] (wynntils) No changes to preloaded packs, clearing server pack, no reload needed.
-[16:06:23] [Render thread/ERROR] (wynntils) Got connected event while already connected to server: ConnectedEvent{host='d4e268ca-06b3-4d48-af0c-c3392800f26e.proxy.wynncraft.com', port=25565}
-[16:06:23] [Render thread/INFO] (Minecraft) Connecting to d4e268ca-06b3-4d48-af0c-c3392800f26e.proxy.wynncraft.com, 25565
-[16:06:24] [Netty Client IO #5/WARN] (fabric-networking-api-v1) Received invalid channel identifier "legacy:fml|hs"
-[16:06:24] [Netty Client IO #5/WARN] (fabric-networking-api-v1) Received invalid channel identifier "WECUI"
-[16:06:25] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player f8cc6201-2fbe-44ae-8344-a3b459c9c2d9 ([UPDATE_DISPLAY_NAME])
-[16:06:25] [Render thread/WARN] (Minecraft) Client disconnected with reason: Transferred to another server
-[16:06:25] [Render thread/ERROR] (wynntils) Got connected event while already connected to server: ConnectedEvent{host='99dd1fdb-3caa-45ab-b477-7e88b616ee78.proxy.wynncraft.com', port=25565}
-[16:06:25] [Render thread/INFO] (Minecraft) Connecting to 99dd1fdb-3caa-45ab-b477-7e88b616ee78.proxy.wynncraft.com, 25565
-[16:06:27] [Netty Client IO #6/WARN] (fabric-networking-api-v1) Received invalid channel identifier "legacy:fml|hs"
-[16:06:27] [Netty Client IO #6/WARN] (fabric-networking-api-v1) Received invalid channel identifier "WECUI"
-[16:06:27] [Netty Client IO #6/INFO] (wynntils) No preloaded pack, letting Minecraft handle the resource pack.
-[16:06:27] [Render thread/INFO] (wynntils) No preloaded pack, letting Minecraft handle the resource pack.
-[16:06:27] [Download-1/INFO] (Minecraft) Returning cached file since actual hash matches requested
-[16:06:27] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, authme, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-gametest-api-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, resourcefulconfig, wynntils, server/00000000/09358885-9740-3eb4-a4ad-405bd0c01b71
-[16:06:28] [Worker-Main-8/INFO] (Minecraft) Found unifont_all_no_pua-16.0.01.hex, loading
-[16:06:28] [Render thread/INFO] (Minecraft) Loaded 825 advancements
-[16:06:28] [Render thread/INFO] (Minecraft) Loaded 1657 advancements
-[16:06:28] [Worker-Main-8/INFO] (Minecraft) Found unifont_jp_patch-16.0.01.hex, loading
-[16:06:28] [Worker-Main-4/WARN] (Minecraft) Exception loading blockstate definition: 'minecraft:cauldron/server/00000000/09358885-9740-3eb4-a4ad-405bd0c01b71' for variant: 'level=1': Unknown blockstate property: 'level'
-[16:06:28] [Worker-Main-4/WARN] (Minecraft) Exception loading blockstate definition: 'minecraft:cauldron/server/00000000/09358885-9740-3eb4-a4ad-405bd0c01b71' for variant: 'level=2': Unknown blockstate property: 'level'
-[16:06:28] [Worker-Main-4/WARN] (Minecraft) Exception loading blockstate definition: 'minecraft:cauldron/server/00000000/09358885-9740-3eb4-a4ad-405bd0c01b71' for variant: 'level=3': Unknown blockstate property: 'level'
-[16:06:28] [Worker-Main-4/WARN] (Minecraft) Exception loading blockstate definition: 'minecraft:cauldron/server/00000000/09358885-9740-3eb4-a4ad-405bd0c01b71' for variant: 'level=0': Unknown blockstate property: 'level'
-[16:06:30] [Worker-Main-2/WARN] (Minecraft) Missing block model: 'minecraft:builtin/entity'
-[16:06:30] [Worker-Main-2/WARN] (Minecraft) Missing block model: 'minecraft:item/white_banner'
-[16:06:31] [Worker-Main-2/WARN] (Minecraft) Missing texture references in model minecraft:vine#east=true,north=false,south=false,up=true,west=true:
+[21:18:33] [ForkJoinPool.commonPool-worker-7/INFO] (wynntils) hichContent leaderboard position 8 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-5/INFO] (wynntils) cookingLevel leaderboard position 6 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-5/INFO] (wynntils) cookingLevel leaderboard position 8 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-9/INFO] (wynntils) woodworkingLevel leaderboard position 6 is redacted.
+[21:18:33] [ForkJoinPool.commonPool-worker-9/INFO] (wynntils) fishingLevel leaderboard position 3 is redacted.
+[21:18:34] [ForkJoinPool.commonPool-worker-1/INFO] (wynntils) woodcuttingLevel leaderboard position 1 is redacted.
+[21:18:34] [ForkJoinPool.commonPool-worker-1/INFO] (wynntils) woodcuttingLevel leaderboard position 2 is redacted.
+[21:18:34] [ForkJoinPool.commonPool-worker-1/INFO] (wynntils) woodcuttingLevel leaderboard position 3 is redacted.
+[21:18:34] [ForkJoinPool.commonPool-worker-1/INFO] (wynntils) woodcuttingLevel leaderboard position 7 is redacted.
+[21:18:34] [ForkJoinPool.commonPool-worker-1/INFO] (wynntils) craftsmanContent leaderboard position 9 is redacted.
+[21:18:34] [ForkJoinPool.commonPool-worker-1/WARN] (wynntils) Failure in net manager [handleJsonObject], processing API:API_ATHENA_AUTH_RESPONSE: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[21:18:34] [ForkJoinPool.commonPool-worker-1/ERROR] (wynntils) Error while processing network request; ignored
+[21:18:34] [ForkJoinPool.commonPool-worker-7/INFO] (wynntils) huichContent leaderboard position 1 is redacted.
+[21:18:34] [ForkJoinPool.commonPool-worker-7/INFO] (wynntils) tailoringLevel leaderboard position 5 is redacted.
+[21:18:35] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, authme, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-gametest-api-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, resourcefulconfig, wynntils
+[21:18:35] [Worker-Main-4/INFO] (Minecraft) Found unifont_jp_patch-16.0.01.hex, loading
+[21:18:35] [Worker-Main-8/INFO] (Minecraft) Found unifont_all_no_pua-16.0.01.hex, loading
+[21:18:35] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type: soulPointRegen
+[21:18:35] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type: soulPointRegen
+[21:18:35] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type: soulPointRegen
+[21:18:35] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type: soulPointRegen
+[21:18:35] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type: soulPointRegen
+[21:18:35] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type: soulPointRegen
+[21:18:35] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type: soulPointRegen
+[21:18:35] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Unknown stat type: soulPointRegen
+[21:18:35] [ForkJoinPool.commonPool-worker-1/WARN] (wynntils) Unknown combat type in combat.json: Caves
+[21:18:36] [ForkJoinPool.commonPool-worker-2/WARN] (wynntils) Charm of the Void's stat gatherXpBonus has a range mismatch: API <14-21> vs calculated <5-23>
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: elementalDefense
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: soulPointRegen
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: healing
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: agility
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: baseAirDamage
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: baseAirDefence
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: baseDamage
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: baseEarthDamage
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: baseEarthDefence
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: baseFireDamage
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: baseFireDefence
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: baseHealth
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: baseThunderDamage
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: baseThunderDefence
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: baseWaterDamage
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: baseWaterDefence
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: defence
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: dexterity
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: intelligence
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: strength
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: fireSpellDamageBonus
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: thunderMeleeDamageBonusRaw
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: maxMana
+[21:18:36] [ForkJoinPool.commonPool-worker-4/WARN] (wynntils) Unknown stat type for identification key: mainAttackFireDamage
+[21:18:36] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Failed to parse material for Creeper Mask
+[21:18:36] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Failed to parse material for Mama Zomble's Memory
+[21:18:36] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Item DB does not contain an icon for Pumpkin Helmet
+[21:18:36] [ForkJoinPool.commonPool-worker-7/WARN] (wynntils) Failed to parse material for Pumpkin Helmet
+[21:18:37] [ForkJoinPool.commonPool-worker-7/INFO] (wynntils) [DownloadManager] Downloads finished.
+[21:18:37] [ForkJoinPool.commonPool-worker-7/INFO] (wynntils) [DownloadManager] Downloads succeeded.
+[21:18:37] [Render thread/INFO] (wynntils) Checking for update for stream release.
+[21:18:37] [ForkJoinPool.commonPool-worker-7/INFO] (wynntils) Mod is on latest version, not attempting update reminder or auto-update.
+[21:18:38] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[21:18:38] [Render thread/INFO] (Minecraft) Sound engine started
+[21:18:38] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[21:18:38] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[21:18:38] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[21:18:38] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[21:18:38] [Render thread/INFO] (Minecraft) Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[21:18:38] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[21:18:38] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[21:18:38] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[21:18:38] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[21:18:38] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[21:18:39] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[21:18:39] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[21:18:39] [Render thread/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[21:18:39] [Render thread/INFO] (Minecraft) Created: 1024x1024x0 minecraft:textures/atlas/gui.png-atlas
+[21:18:39] [Render thread/ERROR] (Minecraft) Illegal option value  for translation{key='options.audioDevice', args=[]}
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "custom_poi_visibility" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "customCommandKeybindSlashStart" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "gameBarOverlayMove" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "enumNaming" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "customPoiIconEnumBug" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "questBookToContentRenamedConfigs" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "mapToMainMapRenamedConfigs" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "overlayRestructuring" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "overlayConfigsIntegration" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "customBankQuickJumps" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "customBankQuickJumpsBankName" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "npcDialoguesRenamed" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "npcDialoguesOverlayConfigsMoved" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "towerAuraVignetteName" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "towerAuraVignetteAndOverlayMovedToCommonFeature" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "combatXpGainToXpGain" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "professionBadgesToLeaderboardBadges" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "tradeMarketAutoOpenChatToTradeMarketQuickSearch" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "sacredSurgeToHolyPower" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "universalBarOverlayColorToColorTemplate" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "wynntilsContentBookReplaceToShiftBehaviour" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "durabilityArcToDurabilityOverlay" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "mobTotemTimerOverlayFeatureToBonusTotemTimerOverlayFeature" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "itemHighlightFeatureCosmeticToStore" to config file.
+[21:18:39] [Render thread/INFO] (wynntils) Creating default config file with 1082 config values.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "bankToAccountBank" to storage file.
+[21:18:39] [Render thread/INFO] (wynntils) Applied upfixer "updateChangelogToModel" to storage file.
+[21:18:39] [Render thread/INFO] (wynntils) Wynntils: 158 features and 303 functions are now loaded and ready
+[21:18:40] [Render thread/INFO] (wynntils) Created backup of user config file: 9558103d782531dba05ba05b47d33b95.conf.json
+[21:18:40] [Render thread/INFO] (wynntils) Created backup of user storage file: 9558103d782531dba05ba05b47d33b95.data.json
+[21:18:59] [Render thread/INFO] (Minecraft) Connecting to play.wynncraft.com, 25565
+[21:19:00] [Render thread/INFO] (Auth Me) Adding auth button to the disconnected screen
+[21:19:01] [pool-14-thread-1/INFO] (Auth Me) Acquiring Microsoft auth code...
+[21:19:01] [pool-14-thread-1/INFO] (Auth Me) Launching Microsoft login in browser: https://login.microsoftonline.com/consumers/oauth2/v2.0/authorize?client_id=e16699bb-2aa8-46da-b5e3-45cbcce29091&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A25585%2Fcallback&scope=XboxLive.signin+offline_access&state=GLjo0njSN5x1vszJn-gDbg
+[21:19:01] [pool-14-thread-1/INFO] (Auth Me) Begin listening on http://localhost:25585/callback for a successful Microsoft login...
+[21:19:02] [pool-14-thread-1/INFO] (Auth Me) Acquired Microsoft auth code! (M.C552_BL2.2.U....0-b1f37e99e5b0)
+[21:19:04] [pool-14-thread-1/INFO] (Auth Me) Exchanging Microsoft auth code for an access token...
+[21:19:05] [pool-14-thread-1/INFO] (Auth Me) [POST] https://login.microsoftonline.com/consumers/oauth2/v2.0/token (timeout=30s)
+[21:19:05] [pool-14-thread-1/INFO] (Auth Me) Acquired Microsoft access token! (EwD4A+pvBAAUKod...9AGOJrB0jG7wI=)
+[21:19:05] [pool-14-thread-1/INFO] (Auth Me) Exchanging Microsoft access token for an Xbox Live access token...
+[21:19:05] [pool-14-thread-1/INFO] (Auth Me) [POST] https://user.auth.xboxlive.com/user/authenticate (timeout=30s)
+[21:19:06] [pool-14-thread-1/INFO] (Auth Me) Acquired Xbox Live access token! (eyJhbGciOiJSU0E...DXv-KcVfOCBkVg)
+[21:19:06] [pool-14-thread-1/INFO] (Auth Me) Exchanging Xbox Live token for an Xbox Live XSTS token...
+[21:19:06] [pool-14-thread-1/INFO] (Auth Me) [POST] https://xsts.auth.xboxlive.com/xsts/authorize (timeout=30s)
+[21:19:07] [pool-14-thread-1/INFO] (Auth Me) Acquired Xbox Live XSTS token! (token=eyJlbmMiOiJBMTI...v_SN6VK8-_QFUg, uhs=1785389856904138648)
+[21:19:07] [pool-14-thread-1/INFO] (Auth Me) Exchanging Xbox Live XSTS token for a Minecraft access token...
+[21:19:07] [pool-14-thread-1/INFO] (Auth Me) [POST] https://api.minecraftservices.com/authentication/login_with_xbox (timeout=30s)
+[21:19:08] [pool-14-thread-1/INFO] (Auth Me) Acquired Minecraft access token! (eyJraWQiOiIwNDk...MpQe3CsOcSZjkQ)
+[21:19:08] [pool-14-thread-1/INFO] (Auth Me) Fetching Minecraft profile...
+[21:19:08] [pool-14-thread-1/INFO] (Auth Me) [GET] https://api.minecraftservices.com/minecraft/profile (timeout=30s)
+[21:19:08] [pool-14-thread-1/INFO] (Auth Me) Fetched Minecraft profile! (name=1NotherF, uuid=f8cc6201-2fbe-44ae-8344-a3b459c9c2d9)
+[21:19:08] [pool-14-thread-1/INFO] (Auth Me) Minecraft session for 1NotherF (uuid=f8cc6201-2fbe-44ae-8344-a3b459c9c2d9) has been applied
+[21:19:08] [pool-14-thread-1/INFO] (Auth Me) Successfully logged in via Microsoft!
+[21:19:09] [Render thread/INFO] (Minecraft) Connecting to play.wynncraft.com, 25565
+[21:19:11] [Render thread/WARN] (Minecraft) Client disconnected with reason: Transferred to another server
+[21:19:11] [Render thread/INFO] (wynntils) No preloaded pack, or it was disabled, clearing server pack, checking if a reload should trigger.
+[21:19:11] [Render thread/INFO] (wynntils) No changes to preloaded packs, clearing server pack, no reload needed.
+[21:19:11] [Render thread/ERROR] (wynntils) Got connected event while already connected to server: ConnectedEvent{host='d4e268ca-06b3-4d48-af0c-c3392800f26e.proxy.wynncraft.com', port=25565}
+[21:19:11] [Render thread/INFO] (Minecraft) Connecting to d4e268ca-06b3-4d48-af0c-c3392800f26e.proxy.wynncraft.com, 25565
+[21:19:12] [Netty Client IO #7/WARN] (fabric-networking-api-v1) Received invalid channel identifier "legacy:fml|hs"
+[21:19:12] [Netty Client IO #7/WARN] (fabric-networking-api-v1) Received invalid channel identifier "WECUI"
+[21:19:12] [Netty Client IO #7/WARN] (fabric-networking-api-v1) Received invalid channel identifier "WECUI"
+[21:19:12] [Netty Client IO #7/INFO] (wynntils) No preloaded pack, letting Minecraft handle the resource pack.
+[21:19:12] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player f8cc6201-2fbe-44ae-8344-a3b459c9c2d9 ([UPDATE_DISPLAY_NAME])
+[21:19:12] [Render thread/INFO] (wynntils) No preloaded pack, letting Minecraft handle the resource pack.
+[21:19:12] [Render thread/INFO] (Minecraft) Loaded 828 advancements
+[21:19:13] [Render thread/INFO] (Minecraft) Loaded 1658 advancements
+[21:19:13] [Download-1/INFO] (Minecraft) Returning cached file since actual hash matches requested
+[21:19:13] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, authme, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-gametest-api-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, resourcefulconfig, wynntils, server/00000000/09358885-9740-3eb4-a4ad-405bd0c01b71
+[21:19:13] [Worker-Main-4/INFO] (Minecraft) Found unifont_all_no_pua-16.0.01.hex, loading
+[21:19:13] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'minecraft:cauldron/server/00000000/09358885-9740-3eb4-a4ad-405bd0c01b71' for variant: 'level=1': Unknown blockstate property: 'level'
+[21:19:13] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'minecraft:cauldron/server/00000000/09358885-9740-3eb4-a4ad-405bd0c01b71' for variant: 'level=2': Unknown blockstate property: 'level'
+[21:19:13] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'minecraft:cauldron/server/00000000/09358885-9740-3eb4-a4ad-405bd0c01b71' for variant: 'level=3': Unknown blockstate property: 'level'
+[21:19:13] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'minecraft:cauldron/server/00000000/09358885-9740-3eb4-a4ad-405bd0c01b71' for variant: 'level=0': Unknown blockstate property: 'level'
+[21:19:13] [Worker-Main-4/INFO] (Minecraft) Found unifont_jp_patch-16.0.01.hex, loading
+[21:19:15] [Worker-Main-10/WARN] (Minecraft) Missing block model: 'minecraft:builtin/entity'
+[21:19:15] [Worker-Main-10/WARN] (Minecraft) Missing block model: 'minecraft:item/white_banner'
+[21:19:16] [Worker-Main-10/WARN] (Minecraft) Missing texture references in model minecraft:vine#east=true,north=false,south=false,up=true,west=true:
     particle
-[16:06:31] [Worker-Main-2/WARN] (Minecraft) Missing texture references in model minecraft:potion#inventory:
+[21:19:16] [Worker-Main-10/WARN] (Minecraft) Missing texture references in model minecraft:potion#inventory:
     particle
-[16:06:31] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
-[16:06:31] [Render thread/INFO] (Minecraft) Sound engine started
-[16:06:31] [Render thread/INFO] (Minecraft) Created: 8192x4096x4 minecraft:textures/atlas/blocks.png-atlas
-[16:06:32] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[16:06:32] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[16:06:32] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[16:06:32] [Render thread/INFO] (Minecraft) Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[16:06:32] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[16:06:32] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[16:06:32] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[16:06:32] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[16:06:32] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
-[16:06:32] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
-[16:06:32] [Render thread/INFO] (Minecraft) Created: 512x512x0 minecraft:textures/atlas/paintings.png-atlas
-[16:06:32] [Render thread/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[16:06:32] [Render thread/INFO] (Minecraft) Created: 1024x1024x0 minecraft:textures/atlas/gui.png-atlas
-[16:06:32] [Render thread/WARN] (wynntils) Failed to match a portion of the action bar text, using a fallback: FallbackSegment{segmentText='󏾌󐀊󐀀§8v2.1.3_8󏿝§r󐀈󏿾󏼸󏽲 Left-Click to play                      Right-Click to switch󏽱󏿟NA3󐀐󐁰Closing in 13 days󏽁󏿀󐀾󏾭1󐀁󏿾N󏿾o󏿾t󏿾h󏿾e󏿾r󏿾F󐀱'}
-[16:06:32] [Render thread/WARN] (wynntils) Failed to match a portion of the action bar text, using a fallback: FallbackSegment{segmentText='󏾞󐀜󏾠󏿿󏿿󏿿󏿿󏿿󏿿󏿿󐀝'}
-[16:06:32] [Render thread/WARN] (wynntils) Action bar text: 󏾌󐀊󐀀§8v2.1.3_8󏿝§r󐀈󏿾󏼸󏽲 Left-Click to play                      Right-Click to switch󏽱󏿟NA3󐀐󐁰Closing in 13 days󏽁󏿀󐀾󏾭1󐀁󏿾N󏿾o󏿾t󏿾h󏿾e󏿾r󏿾F󐀱󏾛󏿾󏿾󐁖󏾞󐀜󏾠󏿿󏿿󏿿󏿿󏿿󏿿󏿿󐀝
-[16:06:32] [Render thread/WARN] (wynntils) Failed to match a portion of the action bar text, using a fallback: FallbackSegment{segmentText='󏾌󐀊󐀀§8v2.1.3_8󏿝§r󐀈󏿾󏼸󏽲 Left-Click to play                      Right-Click to switch󏽱󏿟NA3󐀐󐁰Closing in 13 days󏽁󏿀󐀾󏾭1󐀁󏿾N󏿾o󏿾t󏿾h󏿾e󏿾r󏿾F󐀱'}
-[16:06:32] [Render thread/WARN] (wynntils) Failed to match a portion of the action bar text, using a fallback: FallbackSegment{segmentText='󏾞󐀜󏾠󏿿󏿿󏿿󏿿󏿿󏿿󏿿󐀝'}
-[16:06:32] [Render thread/WARN] (wynntils) Action bar text: 󏾌󐀊󐀀§8v2.1.3_8󏿝§r󐀈󏿾󏼸󏽲 Left-Click to play                      Right-Click to switch󏽱󏿟NA3󐀐󐁰Closing in 13 days󏽁󏿀󐀾󏾭1󐀁󏿾N󏿾o󏿾t󏿾h󏿾e󏿾r󏿾F󐀱󏾛󏿾󏿾󐁖󏾞󐀜󏾠󏿿󏿿󏿿󏿿󏿿󏿿󏿿󐀝
-[16:06:35] [Render thread/INFO] (wynntils) Selected character CharacterInfo{classType=Assassin/Ninja, reskinned=false, level=105, id=-}
-[16:06:37] [Render thread/WARN] (wynntils) UnknownGearAnnotator: No rarity information found in item name: StyledText{'§3Forbidden Weights of the Owl §b[100%]'}
-[16:06:37] [Render thread/WARN] (wynntils) UnknownGearAnnotator: No rarity information found in item name: StyledText{'§3Tinted Kneecaps of the Stars §b[100%]'}
-[16:06:37] [Render thread/INFO] (wynntils) [CHAT] 
+[21:19:16] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[21:19:16] [Render thread/INFO] (Minecraft) Sound engine started
+[21:19:17] [Render thread/INFO] (Minecraft) Created: 8192x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[21:19:17] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[21:19:17] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[21:19:17] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[21:19:17] [Render thread/INFO] (Minecraft) Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[21:19:17] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[21:19:17] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[21:19:17] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[21:19:17] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[21:19:17] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[21:19:17] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[21:19:17] [Render thread/INFO] (Minecraft) Created: 512x512x0 minecraft:textures/atlas/paintings.png-atlas
+[21:19:17] [Render thread/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[21:19:17] [Render thread/INFO] (Minecraft) Created: 1024x1024x0 minecraft:textures/atlas/gui.png-atlas
+[21:19:17] [Render thread/WARN] (wynntils) Failed to match a portion of the action bar text, using a fallback: FallbackSegment{segmentText='󏽲 Left-Click to play                      Right-Click to switch󏽱󏾌󐀊󐀈󏿾󏼸󐀀§8v2.1.3_8󏿝§r󐁰Closing in 13 days󏽁󏿟AS6󐀐󏾭1󐀁󏿾N󏿾o󏿾t󏿾h󏿾e󏿾r󏿾F󐀱󏾞󐀜󏾠󏿿󏿿󏿿󏿿󏿿󏿿󏿿󐀝󏿀󐀾'}
+[21:19:17] [Render thread/WARN] (wynntils) Action bar text: 󏽲 Left-Click to play                      Right-Click to switch󏽱󏾌󐀊󐀈󏿾󏼸󐀀§8v2.1.3_8󏿝§r󐁰Closing in 13 days󏽁󏿟AS6󐀐󏾭1󐀁󏿾N󏿾o󏿾t󏿾h󏿾e󏿾r󏿾F󐀱󏾞󐀜󏾠󏿿󏿿󏿿󏿿󏿿󏿿󏿿󐀝󏿀󐀾󏾛󏿾󏿾󐁖
+[21:19:18] [Render thread/WARN] (wynntils) Failed to match a portion of the action bar text, using a fallback: FallbackSegment{segmentText='󏽲 Left-Click to play                      Right-Click to switch󏽱󏾌󐀊󐀈󏿾󏼸󐀀§8v2.1.3_8󏿝§r󐁰Closing in 13 days󏽁󏿟AS6󐀐󏾭1󐀁󏿾N󏿾o󏿾t󏿾h󏿾e󏿾r󏿾F󐀱󏾞󐀜󏾠󏿿󏿿󏿿󏿿󏿿󏿿󏿿󐀝󏿀󐀾'}
+[21:19:18] [Render thread/WARN] (wynntils) Action bar text: 󏽲 Left-Click to play                      Right-Click to switch󏽱󏾌󐀊󐀈󏿾󏼸󐀀§8v2.1.3_8󏿝§r󐁰Closing in 13 days󏽁󏿟AS6󐀐󏾭1󐀁󏿾N󏿾o󏿾t󏿾h󏿾e󏿾r󏿾F󐀱󏾞󐀜󏾠󏿿󏿿󏿿󏿿󏿿󏿿󏿿󐀝󏿀󐀾󏾛󏿾󏿾󐁖
+[21:19:18] [Render thread/INFO] (Minecraft) Loaded 828 advancements
+[21:19:18] [Render thread/INFO] (Minecraft) Loaded 1658 advancements
+[21:19:52] [Render thread/INFO] (wynntils) Selected character CharacterInfo{classType=Warrior/Knight, reskinned=false, level=105, id=-}
+[21:19:53] [Render thread/INFO] (wynntils) [CHAT] 
                   &6&lWelcome to Wynncraft!
 &r            &fplay.wynncraft.com &7-/-&f wynncraft.com
 
@@ -326,102 +306,279 @@ com.mojang.authlib.exceptions.InvalidCredentialsException: ForbiddenOperationExc
 &r                               
           &6The festival closes its doors in &e13 days.&r
 
-[16:06:37] [Render thread/INFO] (Minecraft) [System] [CHAT] \n                  Welcome to Wynncraft!\n            play.wynncraft.com -/- wynncraft.com\n\n                 Festival of the Bonfire\n            Complete daily and weekly objectives\n           to gain Fiery Bonfire Crates for free!\n                               \n          The festival closes its doors in 13 days.\n
-[16:06:37] [Render thread/INFO] (wynntils) [CHAT] &bYou have unclaimed guild rewards.&3 Claim them on the Member Menu.
-[16:06:37] [Render thread/INFO] (Minecraft) [System] [CHAT] You have unclaimed guild rewards. Claim them on the Member Menu.
-[16:06:37] [Render thread/INFO] (wynntils) Adding 1 guild objectives.
-[16:06:37] [Render thread/INFO] (wynntils) Scheduling rank info query
-[16:06:37] [Render thread/INFO] (wynntils) Selected character: b34c72f4
-[16:06:37] [Render thread/INFO] (wynntils) Scheduling character info query
-[16:06:37] [Render thread/INFO] (wynntils) Executing queued command immediately: friend list
-[16:06:37] [Render thread/INFO] (Minecraft) [System] [CHAT] Trying to connect to Hades failed. Until you reconnect you will be unable to see friends or party members on your map and minimap. Click here to try and reconnect.
-[16:06:37] [Render thread/INFO] (Minecraft) [System] [CHAT] Trying to connect and set up the Wynntils Account with your data has failed. Click here to try and reconnect.
-[16:06:37] [Render thread/INFO] (Minecraft) [System] [CHAT] Wynntils Crowd Sourcing\nWynntils can collect data during your\ngameplay to improve the mod.\nThis data does not contain any personal information,\nand is only stored locally on your computer.\nTo share this data with the Wynntils team,\nyou must copy it to the clipboard and send it to us,\nduring periods when we are collecting data.\n\nThe following data types are not confirmed to be collected:\n - Lootrun Task Locations and Type\n - NPC Locations\n - Profession Node Locations\n - Profession Station Locations\n - Fast Travel Locations\n\nYou can confirm or deny the collection of each data type in the Wynntils Crowd Sourcing Screen, which you can access from the Wynntils Menu.
-[16:06:37] [Render thread/INFO] (Minecraft) [System] [CHAT] Wynntils Telemetry\nWynntils can send telemetry data when a component fails.\nThis data does not contain any personal information,\nbut is helpful for developers for fixing bugs in Wynntils.\nClick here to accept crash report telemetry\nClick here to opt out of crash report telemetry\n
-[16:06:37] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿐󐀂 Having issues with your content tracker not updating? Enable autotracking with /toggle autotracking.
-[16:06:37] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
-[16:06:37] [Render thread/INFO] (wynntils) Executing queued command: friend online
-[16:06:37] [Render thread/INFO] (wynntils) [CHAT] &a󏿼󏿿󏿾 1NotherF's friends (6): &6HiImSunny, NinhoGamerACDC,&a
+[21:19:53] [Render thread/INFO] (Minecraft) [System] [CHAT] \n                  Welcome to Wynncraft!\n            play.wynncraft.com -/- wynncraft.com\n\n                 Festival of the Bonfire\n            Complete daily and weekly objectives\n           to gain Fiery Bonfire Crates for free!\n                               \n          The festival closes its doors in 13 days.\n
+[21:19:53] [Render thread/INFO] (wynntils) Adding 1 daily objectives.
+[21:19:53] [Render thread/INFO] (wynntils) [CHAT] &bYou have unclaimed guild rewards.&3 Claim them on the Member Menu.
+[21:19:53] [Render thread/INFO] (Minecraft) [System] [CHAT] You have unclaimed guild rewards. Claim them on the Member Menu.
+[21:19:53] [Render thread/INFO] (wynntils) Adding 1 guild objectives.
+[21:19:53] [Render thread/INFO] (wynntils) Scheduling rank info query
+[21:19:53] [Render thread/INFO] (wynntils) Selected character: 1c48490b
+[21:19:53] [Render thread/INFO] (wynntils) Scheduling character info query
+[21:19:53] [Render thread/INFO] (wynntils) Executing queued command immediately: friend list
+[21:19:53] [Render thread/INFO] (Minecraft) [System] [CHAT] Trying to connect to Hades failed. Until you reconnect you will be unable to see friends or party members on your map and minimap. Click here to try and reconnect.
+[21:19:53] [Render thread/INFO] (Minecraft) [System] [CHAT] Trying to connect and set up the Wynntils Account with your data has failed. Click here to try and reconnect.
+[21:19:53] [Render thread/INFO] (Minecraft) [System] [CHAT] Wynntils Crowd Sourcing\nWynntils can collect data during your\ngameplay to improve the mod.\nThis data does not contain any personal information,\nand is only stored locally on your computer.\nTo share this data with the Wynntils team,\nyou must copy it to the clipboard and send it to us,\nduring periods when we are collecting data.\n\nThe following data types are not confirmed to be collected:\n - Lootrun Task Locations and Type\n - NPC Locations\n - Profession Node Locations\n - Profession Station Locations\n - Fast Travel Locations\n\nYou can confirm or deny the collection of each data type in the Wynntils Crowd Sourcing Screen, which you can access from the Wynntils Menu.
+[21:19:53] [Render thread/INFO] (Minecraft) [System] [CHAT] Wynntils Telemetry\nWynntils can send telemetry data when a component fails.\nThis data does not contain any personal information,\nbut is helpful for developers for fixing bugs in Wynntils.\nClick here to accept crash report telemetry\nClick here to opt out of crash report telemetry\n
+[21:19:53] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿐󐀂 Press F3 on a gear item to share it in chat or save it.
+[21:19:53] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:19:54] [Render thread/INFO] (wynntils) [CHAT] &a󏿼󏿿󏿾 1NotherF's friends (6): &6HiImSunny, NinhoGamerACDC,&a
 󏿼󐀆 _NightEnder_, Kraken_sama, Tinuhedc, 2nfs
-[16:06:37] [Render thread/INFO] (wynntils) Successfully updated friend list, user has 5 friends.
-[16:06:38] [Render thread/INFO] (wynntils) [CHAT] &a󏿼󐀆 Online Friends:
-[16:06:38] [Render thread/INFO] (wynntils) Executing queued command: party list
-[16:06:38] [Render thread/INFO] (wynntils) Parsed Silverbull subscription status: TRUE
-[16:06:38] [Render thread/INFO] (wynntils) Parsed Silverbull expiry: 1756577198816
-[16:06:38] [Render thread/INFO] (wynntils) [CHAT] &e󏿼󏿿󏿾 You must be in a party to use this.
-[16:06:38] [Render thread/INFO] (wynntils) Player is not in a party.
-[16:06:39] [Render thread/INFO] (wynntils) Successfully parsed guild name and rank, CAPTAIN of The Empire Of Shir
-[16:06:39] [Render thread/INFO] (wynntils) Deducing character CharacterInfo{classType=Assassin/Ninja, reskinned=true, level=105, id=b34c72f4}
-[16:06:39] [Render thread/INFO] (wynntils) Successfully parsed guild info for guild The Empire Of Shir
-[16:06:40] [Render thread/INFO] (wynntils) Successfully parsed tributes for guild The Empire Of Shir
-[16:06:41] [Render thread/INFO] (wynntils) [CHAT] &7&r &8⁤&f&8&f&8&f&8&f⁤⁤&8&f&8&f&8&f&8&f&8⁤&r &#54fcfcff ⁤&r⁤⁤&#4c8dfcffVinJuJu: &faxe
-[16:06:41] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤VinJuJu: axe
-[16:06:41] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤VinJuJu: axe
-[16:06:43] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
-[16:07:03] [Render thread/INFO] (wynntils) [CHAT] &7&r &8⁤&f&8&f&8&f⁤&8⁤&r⁤⁤⁤&7Loma_a: &fBrainwash
-[16:07:03] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤⁤⁤Loma_a: Brainwash
-[16:07:03] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤⁤⁤Loma_a: Brainwash
-[16:07:03] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Vanish&8 has been refreshed!
-[16:07:11] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
-[16:07:12] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Vanish&8 has been refreshed!
-[16:07:16] [Render thread/WARN] (wynntils) UnknownGearAnnotator: No rarity information found in item name: StyledText{'§3Tinted Kneecaps of the Stars §b[100%]'}
-[16:07:23] [Render thread/INFO] (wynntils) [CHAT] &#00bdbfff󏿼󏿿󏿾 The Lonely Islet World Event starts in 2m 58s! &7(2217
-&#00bdbfff󏿼󐀆 &7blocks away) &d&nClick to track
-[16:07:23] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 The Lonely Islet World Event starts in 2m 58s! (2217\n󏿼󐀆 blocks away) Click to track
-[16:07:28] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
-[16:07:28] [Render thread/WARN] (Minecraft) Unable to play unknown soundEvent: minecraft:hurt
-[16:07:32] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Vanish&8 has been refreshed!
-[16:07:36] [Render thread/WARN] (wynntils) UnknownGearAnnotator: No rarity information found in item name: StyledText{'§3Forbidden Weights of the Owl §b[100%]'}
-[16:07:39] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
-[16:07:40] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Vanish&8 has been refreshed!
-[16:07:44] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Vanish&8 has been refreshed!
-[16:07:47] [Render thread/INFO] (wynntils) [CHAT] &7[You are now leaving CorkusÀÀÀCity]
-[16:07:48] [Render thread/INFO] (wynntils) [CHAT] &4󏿼󏿿󏿾 You don't have enough mana to cast that spell!
-[16:07:48] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Vanish&8 has been refreshed!
-[16:07:52] [Render thread/INFO] (wynntils) [CHAT] &7[You are now entering CorkusÀÀÀCity]
-[16:07:55] [Render thread/WARN] (wynntils) UnknownGearAnnotator: No rarity information found in item name: StyledText{'§3Tinted Kneecaps of the Stars §b[100%]'}
-[16:07:57] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Vanish&8 has been refreshed!
-[16:08:05] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Vanish&8 has been refreshed!
-[16:08:09] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Vanish&8 has been refreshed!
-[16:08:13] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
-[16:08:15] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Vanish&8 has been refreshed!
-[16:08:15] [Render thread/WARN] (wynntils) UnknownGearAnnotator: No rarity information found in item name: StyledText{'§3Forbidden Weights of the Owl §b[100%]'}
-[16:08:36] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Vanish&8 has been refreshed!
-[16:08:44] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
-[16:08:44] [Render thread/WARN] (wynntils) UnknownGearAnnotator: No rarity information found in item name: StyledText{'§3Tinted Kneecaps of the Stars §b[100%]'}
-[16:08:47] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Vanish&8 has been refreshed!
-[16:08:50] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
-[16:08:52] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
-[16:08:58] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Vanish&8 has been refreshed!
-[16:08:58] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
-[16:08:58] [Render thread/INFO] (wynntils) [CHAT] &7&r &8⁤&f&8&f&8&f⁤⁤&8&f&8&f&8&f&8⁤&r &#54fcfcff ⁤&r⁤⁤&#4c8dfcffPav3lup: &fturtle
-[16:08:58] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤Pav3lup: turtle
-[16:08:58] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤Pav3lup: turtle
-[16:09:04] [Render thread/WARN] (wynntils) UnknownGearAnnotator: No rarity information found in item name: StyledText{'§3Forbidden Weights of the Owl §b[100%]'}
-[16:09:06] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Vanish&8 has been refreshed!
-[16:09:11] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Vanish&8 has been refreshed!
-[16:09:20] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Vanish&8 has been refreshed!
-[16:09:21] [Render thread/INFO] (wynntils) [CHAT] 
-[16:09:21] [Render thread/INFO] (Minecraft) [System] [CHAT] 
-[16:09:21] [Render thread/INFO] (wynntils) [CHAT]                        &d&lHousing Island
-[16:09:21] [Render thread/INFO] (Minecraft) [System] [CHAT]                        Housing Island
-[16:09:21] [Render thread/INFO] (wynntils) [CHAT]                          &7by &a1NotherF
-[16:09:21] [Render thread/INFO] (Minecraft) [System] [CHAT]                          by 1NotherF
-[16:09:21] [Render thread/INFO] (wynntils) [CHAT] 
-[16:09:21] [Render thread/INFO] (Minecraft) [System] [CHAT] 
-[16:09:21] [Render thread/INFO] (wynntils) [CHAT]                    &7A floating Housing Island
-[16:09:21] [Render thread/INFO] (Minecraft) [System] [CHAT]                    A floating Housing Island
-[16:09:21] [Render thread/INFO] (wynntils) [CHAT] 
-[16:09:21] [Render thread/INFO] (Minecraft) [System] [CHAT] 
-[16:09:21] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
-[16:09:21] [Render thread/INFO] (wynntils) [CHAT] &7[You are now leaving CorkusÀÀÀCity]
-[16:09:31] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Vanish&8 has been refreshed!
-[16:09:37] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
-[16:09:43] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
-[16:10:14] [Render thread/INFO] (wynntils) [CHAT] &#fddd5cff󏿼󏿿󏿾 Aleksander299 has thrown a &#f3e6b2ffLoot Chest Bomb&#fddd5cff on &#f3e6b2ff&nEU6
-[16:10:14] [Render thread/INFO] (Minecraft) [STDOUT]: [Bomb RELAY] Detected bomb: LOOT_CHEST by 'Aleksander299' on server 'EU61200000
-[16:10:14] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 Aleksander299 has thrown a Loot Chest Bomb on EU6
-[16:10:15] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Vanish&8 has been refreshed!
-[16:10:16] [ForkJoinPool.commonPool-worker-8/INFO] (Minecraft) [STDOUT]: [BombSender] Response: 200
-[16:10:28] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
-[16:10:29] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:19:54] [Render thread/INFO] (wynntils) Successfully updated friend list, user has 5 friends.
+[21:19:54] [Render thread/INFO] (wynntils) Executing queued command: friend online
+[21:19:54] [Render thread/INFO] (wynntils) Parsed Silverbull subscription status: TRUE
+[21:19:54] [Render thread/INFO] (wynntils) Parsed Silverbull expiry: 1756574394794
+[21:19:54] [Render thread/INFO] (wynntils) [CHAT] &a󏿼󐀆 Online Friends:
+[21:19:54] [Render thread/INFO] (wynntils) [CHAT] &a󏿼󐀆 &2 - &a_NightEnder_&2 [Server: &aAS6&2]
+[21:19:54] [Render thread/INFO] (wynntils) Friend _NightEnder_ is online on AS6
+[21:19:54] [Render thread/INFO] (wynntils) Executing queued command: party list
+[21:19:54] [Render thread/INFO] (wynntils) Successfully parsed guild name and rank, CAPTAIN of The Empire Of Shir
+[21:19:54] [Render thread/INFO] (wynntils) Deducing character CharacterInfo{classType=Warrior/Knight, reskinned=true, level=105, id=1c48490b}
+[21:19:55] [Render thread/INFO] (wynntils) Successfully parsed guild info for guild The Empire Of Shir
+[21:19:55] [Render thread/INFO] (wynntils) Successfully parsed tributes for guild The Empire Of Shir
+[21:19:56] [Render thread/WARN] (Minecraft) Unable to play unknown soundEvent: minecraft:
+[21:19:59] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:20:07] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:20:07] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:20:09] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:20:10] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:20:10] [Render thread/INFO] (wynntils) [CHAT] &7[You are now leaving Lutho]
+[21:20:10] [Render thread/INFO] (wynntils) [CHAT] &b1NotherF&7 has given you &b20% resistance&7.
+[21:20:10] [Render thread/INFO] (Minecraft) [System] [CHAT] 1NotherF has given you 20% resistance.
+[21:20:25] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Provoke&8 has been refreshed!
+[21:20:26] [Render thread/INFO] (wynntils) [CHAT] &7[You are now entering Lutho]
+[21:20:28] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Cleansing Breeze&8 has been refreshed!
+[21:20:31] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Shield&8 has been refreshed!
+[21:20:43] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Cleansing Breeze&8 has been refreshed!
+[21:20:48] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:20:55] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:21:12] [Render thread/INFO] (wynntils) [CHAT] &b1NotherF&7 has given you &b20% resistance&7.
+[21:21:12] [Render thread/INFO] (Minecraft) [System] [CHAT] 1NotherF has given you 20% resistance.
+[21:21:13] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Cleansing Breeze&8 has been refreshed!
+[21:21:17] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Cleansing Breeze&8 has been refreshed!
+[21:21:28] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Provoke&8 has been refreshed!
+[21:21:29] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:21:33] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Shield&8 has been refreshed!
+[21:21:41] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:21:47] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Cleansing Breeze&8 has been refreshed!
+[21:21:49] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󏿿󏿾 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊&0󐀂&b &3BkayFAM:&b boc cut r
+[21:21:49] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊󐀂 BkayFAM: boc cut r
+[21:21:49] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊󐀂 BkayFAM: boc cut r
+[21:21:54] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Provoke&8 has been refreshed!
+[21:21:59] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Shield&8 has been refreshed!
+[21:22:06] [Render thread/INFO] (wynntils) [CHAT] &#a0c84bff󏿼󏿿󏿾 ztw0_0 has gotten a &#fffdddffCream Wybel&#a0c84bff from their crate!
+󏿼󐀆 Get your own at &#ffd750ffwynncraft.com/store&#a0c84bff or type &#ffd750ff/store
+[21:22:06] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 ztw0_0 has gotten a Cream Wybel from their crate!\n󏿼󐀆 Get your own at wynncraft.com/store or type /store
+[21:22:10] [Render thread/INFO] (wynntils) [CHAT] &#a0aec0ff󏿼󏿿󏿾 Stay up to date with Wynncraft on our official Discord at &#77aefcff
+&#a0aec0ff󏿼󐀆 &#77aefcffwynn.gg/discord
+[21:22:10] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 Stay up to date with Wynncraft on our official Discord at \n󏿼󐀆 wynn.gg/discord
+[21:22:12] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󏿿󏿾 󏿿󏿿󏿿󏿿󏿿󏿿󏿢&0󐀂&b &3&oDraculac&r&3:&b co cai info box nao cho aco k nhi
+[21:22:12] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 󏿿󏿿󏿿󏿿󏿿󏿿󏿢󐀂 Draculac: co cai info box nao cho aco k nhi
+[21:22:12] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 󏿿󏿿󏿿󏿿󏿿󏿿󏿢󐀂 Draculac: co cai info box nao cho aco k nhi
+[21:22:21] [Render thread/INFO] (wynntils) [CHAT] &#a0c84bff󏿼󏿿󏿾 ztw0_0 has gotten a &#dd55ffffFire Aura Effect&#a0c84bff from their crate!
+󏿼󐀆 Get your own at &#ffd750ffwynncraft.com/store&#a0c84bff or type &#ffd750ff/store
+[21:22:21] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 ztw0_0 has gotten a Fire Aura Effect from their crate!\n󏿼󐀆 Get your own at wynncraft.com/store or type /store
+[21:22:23] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󏿿󏿾 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊&0󐀂&b &3BkayFAM:&b 14/15 dang sap xong quest CR ma k
+󏿼󐀆 ra noi 1 beacon white
+[21:22:23] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊󐀂 BkayFAM: 14/15 dang sap xong quest CR ma k\n󏿼󐀆 ra noi 1 beacon white
+[21:22:23] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊󐀂 BkayFAM: 14/15 dang sap xong quest CR ma k\n󏿼󐀆 ra noi 1 beacon white
+[21:22:24] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊&0󐀂&b &3BkayFAM:&b :))
+[21:22:24] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊󐀂 BkayFAM: :))
+[21:22:24] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊󐀂 BkayFAM: :))
+[21:22:26] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:22:31] [Render thread/INFO] (wynntils) [CHAT] &#a0c84bff󏿼󏿿󏿾 ztw0_0 has gotten a &#fffdddffLeather Leggings&#a0c84bff from their crate!
+󏿼󐀆 Get your own at &#ffd750ffwynncraft.com/store&#a0c84bff or type &#ffd750ff/store
+[21:22:31] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 ztw0_0 has gotten a Leather Leggings from their crate!\n󏿼󐀆 Get your own at wynncraft.com/store or type /store
+[21:23:09] [Render thread/INFO] (wynntils) [CHAT] &b1NotherF&7 has given you &b20% resistance&7.
+[21:23:09] [Render thread/INFO] (Minecraft) [System] [CHAT] 1NotherF has given you 20% resistance.
+[21:23:12] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:23:18] [Render thread/WARN] (wynntils) UnknownGearAnnotator: No rarity information found in item name: StyledText{'§3Conducting Shirt of Haste §b[100%]'}
+[21:23:19] [Render thread/INFO] (wynntils) [CHAT] &7&r &8⁤&f&8&f&8&f&8&f⁤⁤&8&f&8&f&8&f&8⁤&r &#54fcfcff ⁤⁤⁤&f⁤⁤⁤⁤&#e8c00cffUbe4: &fdesper
+[21:23:19] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤Ube4: desper
+[21:23:19] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤Ube4: desper
+[21:23:30] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Shield&8 has been refreshed!
+[21:23:58] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:24:01] [Render thread/INFO] (wynntils) [CHAT] &5󏿼󏿿󏿾 Party Finder:&d Hey 1NotherF, over here! Join the &bOrphion's
+&5󏿼󐀆 &bNexus of Light&d queue and match up with &e2&d other players!
+[21:24:01] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 Party Finder: Hey 1NotherF, over here! Join the Orphion's\n󏿼󐀆 Nexus of Light queue and match up with 2 other players!
+[21:24:01] [Render thread/WARN] (wynntils) Handling event PongReceivedEvent annotated as IO on thread Render thread
+[21:24:18] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:24:19] [Render thread/INFO] (wynntils) [CHAT] &b1NotherF&7 has given you &b20% resistance&7.
+[21:24:19] [Render thread/INFO] (Minecraft) [System] [CHAT] 1NotherF has given you 20% resistance.
+[21:24:29] [Render thread/WARN] (Minecraft) Unable to play unknown soundEvent: minecraft:block.leaf_litter.hit
+[21:24:31] [Render thread/INFO] (wynntils) [CHAT] &#a0c84bff󏿼󏿿󏿾 Borzah has gotten a &#dd55ffffFirefly Wand&#a0c84bff from their crate!
+󏿼󐀆 Get your own at &#ffd750ffwynncraft.com/store&#a0c84bff or type &#ffd750ff/store
+[21:24:31] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 Borzah has gotten a Firefly Wand from their crate!\n󏿼󐀆 Get your own at wynncraft.com/store or type /store
+[21:24:34] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Provoke&8 has been refreshed!
+[21:24:35] [Render thread/INFO] (wynntils) [CHAT] &7&r &8⁤&f&8&f&8&f&8&f⁤⁤&8&f&8&f&8&f&8&f&8⁤&r &#54fcfcff ⁤⁤⁤&f⁤⁤⁤⁤&#d4448cff&obb: &freset in like 2:45
+[21:24:35] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤bb: reset in like 2:45
+[21:24:35] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤bb: reset in like 2:45
+[21:24:37] [Render thread/INFO] (wynntils) [CHAT] &7&r &8⁤&f&8&f&8&f&8&f⁤⁤&8&f&8&f&8&f&8&f&8⁤&r &#54fcfcff ⁤⁤⁤&f⁤⁤⁤⁤&#d4448cff&obb: &fstay strong
+[21:24:37] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤bb: stay strong
+[21:24:37] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤bb: stay strong
+[21:24:39] [Render thread/INFO] (wynntils) [CHAT] &8[&7⬤&8] &7Shield&8 has been refreshed!
+[21:24:40] [Render thread/INFO] (wynntils) [CHAT] &#a0c84bff󏿼󏿿󏿾 Borzah has gotten a &#dd55ffffFirefly Club&#a0c84bff from their crate!
+󏿼󐀆 Get your own at &#ffd750ffwynncraft.com/store&#a0c84bff or type &#ffd750ff/store
+[21:24:40] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 Borzah has gotten a Firefly Club from their crate!\n󏿼󐀆 Get your own at wynncraft.com/store or type /store
+[21:24:43] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:24:49] [Render thread/INFO] (wynntils) [CHAT] &#a0c84bff󏿼󐀆 Borzah has gotten a &#fffdddffCream Wybel&#a0c84bff from their crate!
+󏿼󐀆 Get your own at &#ffd750ffwynncraft.com/store&#a0c84bff or type &#ffd750ff/store
+[21:24:49] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 Borzah has gotten a Cream Wybel from their crate!\n󏿼󐀆 Get your own at wynncraft.com/store or type /store
+[21:24:50] [Render thread/WARN] (wynntils) Handling event PongReceivedEvent annotated as IO on thread Render thread
+[21:24:52] [Render thread/INFO] (wynntils) [CHAT] &7&r &8⁤&f&8&f&8&f&8&f⁤⁤&8&f&8&f&8&f&8&f&8⁤&r &#54fcfcff ⁤⁤⁤&f⁤⁤⁤⁤&#d4448cff&obb: &fhotaga when zanime arc
+[21:24:52] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤bb: hotaga when zanime arc
+[21:24:52] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤bb: hotaga when zanime arc
+[21:24:56] [Render thread/INFO] (wynntils) [CHAT] &7&r &8⁤&f&8&f&8&f&8&f⁤⁤&8&f&8&f&8&f&8&f&8⁤&r &#54fcfcff ⁤⁤⁤&f⁤⁤⁤⁤&#d4448cff&ojabber: &fzanime
+[21:24:56] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤jabber: zanime
+[21:24:56] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤jabber: zanime
+[21:24:58] [Render thread/INFO] (wynntils) [CHAT] &7&r &8⁤&f&8&f&8&f&8&f⁤⁤&8&f&8&f&8&f&8⁤&r &#54fcfcff ⁤⁤⁤&f⁤⁤⁤⁤&#4c8dfcff&oINSHISEKELO: &fum
+[21:24:58] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤INSHISEKELO: um
+[21:24:58] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤INSHISEKELO: um
+[21:25:00] [Render thread/INFO] (wynntils) [CHAT] &#a0c84bff󏿼󏿿󏿾 Borzah has gotten a &#dd55ffffSeagull Disguise&#a0c84bff from their crate!
+󏿼󐀆 Get your own at &#ffd750ffwynncraft.com/store&#a0c84bff or type &#ffd750ff/store
+[21:25:00] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 Borzah has gotten a Seagull Disguise from their crate!\n󏿼󐀆 Get your own at wynncraft.com/store or type /store
+[21:25:04] [Render thread/WARN] (wynntils) Handling event PongReceivedEvent annotated as IO on thread Render thread
+[21:25:08] [Render thread/INFO] (wynntils) [CHAT] &7&r &8⁤&f&8&f&8&f&8&f⁤⁤&8&f&8&f&8&f&8&f&8⁤&r &#54fcfcff ⁤⁤⁤&f⁤⁤⁤⁤&#d4448cff&obb: &fi need to get dwoc first
+[21:25:08] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤bb: i need to get dwoc first
+[21:25:08] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤bb: i need to get dwoc first
+[21:25:12] [Render thread/WARN] (wynntils) UnknownGearAnnotator: No rarity information found in item name: StyledText{'Leather Cap'}
+[21:25:12] [Render thread/INFO] (wynntils) [CHAT] &#a0c84bff󏿼󏿿󏿾 Borzah has gotten an &#ffbb00ffInfernal Helmet&#a0c84bff from their crate!
+󏿼󐀆 Get your own at &#ffd750ffwynncraft.com/store&#a0c84bff or type &#ffd750ff/store
+[21:25:12] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 Borzah has gotten an Infernal Helmet from their crate!\n󏿼󐀆 Get your own at wynncraft.com/store or type /store
+[21:25:15] [Render thread/WARN] (wynntils) Handling event PongReceivedEvent annotated as IO on thread Render thread
+[21:25:20] [Render thread/INFO] (wynntils) [CHAT] &7&r &8⁤&f&8&f&8&f&8&f⁤⁤&8&f&8&f&8&f&8&f&8⁤&r &#54fcfcff ⁤⁤⁤&f⁤⁤⁤⁤&#d4448cff&obb: &fi dont think that's a good plan
+[21:25:20] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤bb: i dont think that's a good plan
+[21:25:20] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤bb: i dont think that's a good plan
+[21:25:21] [Render thread/INFO] (wynntils) [CHAT] &#00bdbfff󏿼󏿿󏿾 The Incomprehensible Cynosure World Event starts in 6m
+󏿼󐀆 59s! &7(429 blocks away) &d&nClick to track
+[21:25:21] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 The Incomprehensible Cynosure World Event starts in 6m\n󏿼󐀆 59s! (429 blocks away) Click to track
+[21:25:24] [Render thread/INFO] (wynntils) [CHAT] &#a0c84bff󏿼󏿿󏿾 Borzah has gotten a &#ffbb00ffZephyr Fang&#a0c84bff from their crate!
+󏿼󐀆 Get your own at &#ffd750ffwynncraft.com/store&#a0c84bff or type &#ffd750ff/store
+[21:25:24] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 Borzah has gotten a Zephyr Fang from their crate!\n󏿼󐀆 Get your own at wynncraft.com/store or type /store
+[21:25:29] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:25:48] [Render thread/WARN] (wynntils) Handling event PongReceivedEvent annotated as IO on thread Render thread
+[21:25:52] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󏿿󏿾 &evVALLYv&b, &e_NightEnder_&b, &eKaixXI&b, and &e&oDraculac&b finished &3
+&b󏿼󐀆 &3Nest of the Grootslangs&b and claimed &32x Aspects&b, &32048x
+&b󏿼󐀆 &3Emeralds&b, &3+441k Guild Experience&b, and &3+440 Seasonal Rating
+[21:25:52] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 vVALLYv, _NightEnder_, KaixXI, and Draculac finished \n󏿼󐀆 Nest of the Grootslangs and claimed 2x Aspects, 2048x\n󏿼󐀆 Emeralds, +441k Guild Experience, and +440 Seasonal Rating
+[21:25:52] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 vVALLYv, _NightEnder_, KaixXI, and Draculac finished \n󏿼󐀆 Nest of the Grootslangs and claimed 2x Aspects, 2048x\n󏿼󐀆 Emeralds, +441k Guild Experience, and +440 Seasonal Rating
+[21:26:01] [Render thread/INFO] (wynntils) [CHAT] &7&r &8⁤&f&8&f&8&f&8&f⁤⁤&8&f&8&f&8&f&8&f&8⁤&r &#54fcfcff ⁤⁤⁤&f⁤⁤⁤⁤&#d4448cff&obb: &fit's gonna be so goated bro
+[21:26:01] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤bb: it's gonna be so goated bro
+[21:26:01] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤bb: it's gonna be so goated bro
+[21:26:01] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󏿿󏿾 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖&0󐀂&b &3_NightEnder_:&b co le thu dau` tien de choi reso
+󏿼󐀆 la` good pc
+[21:26:01] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖󐀂 _NightEnder_: co le thu dau` tien de choi reso\n󏿼󐀆 la` good pc
+[21:26:01] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖󐀂 _NightEnder_: co le thu dau` tien de choi reso\n󏿼󐀆 la` good pc
+[21:26:03] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖&0󐀂&b &3_NightEnder_:&b i guess
+[21:26:03] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖󐀂 _NightEnder_: i guess
+[21:26:03] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖󐀂 _NightEnder_: i guess
+[21:26:13] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:26:14] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:26:14] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:26:14] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:26:14] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:26:14] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:26:18] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖&0󐀂&b &3_NightEnder_:&b thui nghi day
+[21:26:18] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖󐀂 _NightEnder_: thui nghi day
+[21:26:18] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖󐀂 _NightEnder_: thui nghi day
+[21:26:21] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖&0󐀂&b &3_NightEnder_:&b gg
+[21:26:21] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖󐀂 _NightEnder_: gg
+[21:26:21] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖󐀂 _NightEnder_: gg
+[21:26:28] [Render thread/WARN] (wynntils) Handling event PongReceivedEvent annotated as IO on thread Render thread
+[21:26:30] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖&0󐀂&b &3KaixXI:&b giảm đồ họa xuống
+[21:26:30] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖󐀂 KaixXI: giảm đồ họa xuống
+[21:26:30] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖󐀂 KaixXI: giảm đồ họa xuống
+[21:26:32] [Render thread/INFO] (wynntils) [CHAT] &7&r &8⁤&f&8&f&8&f&8&f⁤⁤&8&f&8&f&8&f&8&f&8⁤&r &#54fcfcff ⁤⁤⁤&f⁤⁤⁤⁤&#d4448cffCuteYukiOvO: &fhi
+[21:26:32] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤CuteYukiOvO: hi
+[21:26:32] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤CuteYukiOvO: hi
+[21:26:33] [Render thread/INFO] (wynntils) [CHAT] &f &#4ec7c7ff⁤&f&#4ec7c7ff&f&#4ec7c7ff&f&#4ec7c7ff&f⁤⁤&#4ec7c7ff&f&#4ec7c7ff&f&#4ec7c7ff&f&#4ec7c7ff&f&#4ec7c7ff⁤&r &#54fcfcff ⁤⁤⁤&f⁤⁤⁤⁤&#e8c00cff&oDraculac: &fe
+[21:26:33] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤Draculac: e
+[21:26:33] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤Draculac: e
+[21:26:34] [Render thread/INFO] (wynntils) [CHAT] &f &#4ec7c7ff⁤&f&#4ec7c7ff&f&#4ec7c7ff&f&#4ec7c7ff&f⁤⁤&#4ec7c7ff&f&#4ec7c7ff&f&#4ec7c7ff&f&#4ec7c7ff&f&#4ec7c7ff⁤&r &#54fcfcff ⁤⁤⁤&f⁤⁤⁤⁤&#e8c00cff&oDraculac: &fraid kh
+[21:26:34] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤Draculac: raid kh
+[21:26:34] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤Draculac: raid kh
+[21:26:43] [Render thread/INFO] (wynntils) [CHAT] &f &#4ec7c7ff⁤&f&#4ec7c7ff&f&#4ec7c7ff&f&#4ec7c7ff&f⁤⁤&#4ec7c7ff&f&#4ec7c7ff&f&#4ec7c7ff&f&#4ec7c7ff&f&#4ec7c7ff⁤&r &#54fcfcff ⁤⁤⁤&f⁤⁤⁤⁤&#e8c00cff&oDraculac: &fraid kh
+[21:26:43] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤Draculac: raid kh
+[21:26:43] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤Draculac: raid kh
+[21:26:45] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󏿿󏿾 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖&0󐀂&b &31NotherF:&b doi doi client
+[21:26:45] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖󐀂 1NotherF: doi doi client
+[21:26:45] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖󐀂 1NotherF: doi doi client
+[21:26:53] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖&0󐀂&b &3KaixXI:&b hide damage nhu t nay
+[21:26:53] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖󐀂 KaixXI: hide damage nhu t nay
+[21:26:53] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖󐀂 KaixXI: hide damage nhu t nay
+[21:26:54] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖&0󐀂&b &3SirooUwU:&b newbie max lvl thi co nen lootrun ko a ?
+[21:26:54] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖󐀂 SirooUwU: newbie max lvl thi co nen lootrun ko a ?
+[21:26:54] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖󐀂 SirooUwU: newbie max lvl thi co nen lootrun ko a ?
+[21:26:56] [Render thread/INFO] (wynntils) [CHAT] &f &#00a800ff⁤&f&#00a800ff&f&#00a800ff&f&#00a800ff&f⁤⁤&#00a800ff&f&#00a800ff&f&#00a800ff&f&#00a800ff&f&#00a800ff⁤&r &#54fcfcff ⁤⁤⁤&f⁤⁤⁤⁤&#d44fe0ff_NightEnder_: &ftk cu zo la` muon raid r
+[21:26:56] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤_NightEnder_: tk cu zo la` muon raid r
+[21:26:56] [Render thread/INFO] (Minecraft) [System] [CHAT]  ⁤⁤⁤⁤  ⁤⁤⁤⁤⁤⁤⁤_NightEnder_: tk cu zo la` muon raid r
+[21:26:59] [Render thread/WARN] (Minecraft) Ignoring player info update for unknown player d730e3f1-4ec9-2007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[21:27:00] [Render thread/WARN] (wynntils) Handling event PongReceivedEvent annotated as IO on thread Render thread
+[21:27:03] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󏿿󏿾 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊&0󐀂&b &3BkayFAM:&b con` slot lr k
+[21:27:03] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊󐀂 BkayFAM: con` slot lr k
+[21:27:03] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󏿿󏿾 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊󐀂 BkayFAM: con` slot lr k
+[21:27:09] [Render thread/WARN] (wynntils) Handling event PongReceivedEvent annotated as IO on thread Render thread
+[21:27:12] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿢&0󐀂&b &3&oDraculac&r&3:&b wtf slot lr
+[21:27:12] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿢󐀂 Draculac: wtf slot lr
+[21:27:12] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿢󐀂 Draculac: wtf slot lr
+[21:27:14] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖&0󐀂&b &3KaixXI:&b 3/4 graid
+[21:27:14] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖󐀂 KaixXI: 3/4 graid
+[21:27:14] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿖󐀂 KaixXI: 3/4 graid
+[21:27:15] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊&0󐀂&b &3BkayFAM:&b raid
+[21:27:15] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊󐀂 BkayFAM: raid
+[21:27:15] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊󐀂 BkayFAM: raid
+[21:27:19] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿢&0󐀂&b &3&oDraculac&r&3:&b nch la va~n nen lr de kiem tien nhe
+[21:27:19] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿢󐀂 Draculac: nch la va~n nen lr de kiem tien nhe
+[21:27:19] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿢󐀂 Draculac: nch la va~n nen lr de kiem tien nhe
+[21:27:19] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊&0󐀂&b &3vVALLYv:&b slot lr :))
+[21:27:19] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊󐀂 vVALLYv: slot lr :))
+[21:27:19] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊󐀂 vVALLYv: slot lr :))
+[21:27:20] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊&0󐀂&b &3BkayFAM:&b bu da hoi nhieu
+[21:27:20] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊󐀂 BkayFAM: bu da hoi nhieu
+[21:27:20] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊󐀂 BkayFAM: bu da hoi nhieu
+[21:27:23] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊&0󐀂&b &3Shiurds:&b pt lr fr
+[21:27:23] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊󐀂 Shiurds: pt lr fr
+[21:27:23] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊󐀂 Shiurds: pt lr fr
+[21:27:23] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊&0󐀂&b &3Turtl3_09:&b nên lr nhé
+[21:27:23] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊󐀂 Turtl3_09: nên lr nhé
+[21:27:23] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿿󏿊󐀂 Turtl3_09: nên lr nhé
+[21:27:26] [Render thread/WARN] (wynntils) Handling event PongReceivedEvent annotated as IO on thread Render thread
+[21:27:31] [Render thread/INFO] (wynntils) [CHAT] &b󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿢&0󐀂&b &3&oDraculac&r&3:&b ra't nen lr
+[21:27:31] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿢󐀂 Draculac: ra't nen lr
+[21:27:31] [Render thread/INFO] (Minecraft) [System] [CHAT] 󏿼󐀆 󏿿󏿿󏿿󏿿󏿿󏿿󏿢󐀂 Draculac: ra't nen lr
+[21:27:32] [Render thread/INFO] (wynntils) No preloaded pack, clearing server pack, trying to preload a new pack.
+[21:27:32] [Render thread/INFO] (wynntils) Preloaded pack updated, reloading resource packs is done by Minecraft.
+[21:27:32] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, authme, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-gametest-api-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, resourcefulconfig, wynntils, wynntils_preloaded/6e0f70ae42bca1ff087cb390b3686518d856bd63
+[21:27:33] [Render thread/INFO] (Auth Me) Adding auth button to the multiplayer screen
+[21:27:33] [ForkJoinPool.commonPool-worker-7/INFO] (Auth Me) Verifying Minecraft session...
+[21:27:33] [Worker-Main-7/INFO] (Minecraft) Found unifont_all_no_pua-16.0.01.hex, loading
+[21:27:33] [Worker-Main-11/WARN] (Minecraft) Exception loading blockstate definition: 'minecraft:cauldron/wynntils_preloaded/6e0f70ae42bca1ff087cb390b3686518d856bd63' for variant: 'level=1': Unknown blockstate property: 'level'
+[21:27:33] [Worker-Main-11/WARN] (Minecraft) Exception loading blockstate definition: 'minecraft:cauldron/wynntils_preloaded/6e0f70ae42bca1ff087cb390b3686518d856bd63' for variant: 'level=2': Unknown blockstate property: 'level'
+[21:27:33] [Worker-Main-11/WARN] (Minecraft) Exception loading blockstate definition: 'minecraft:cauldron/wynntils_preloaded/6e0f70ae42bca1ff087cb390b3686518d856bd63' for variant: 'level=3': Unknown blockstate property: 'level'
+[21:27:33] [Worker-Main-11/WARN] (Minecraft) Exception loading blockstate definition: 'minecraft:cauldron/wynntils_preloaded/6e0f70ae42bca1ff087cb390b3686518d856bd63' for variant: 'level=0': Unknown blockstate property: 'level'
+[21:27:33] [Worker-Main-7/INFO] (Minecraft) Found unifont_jp_patch-16.0.01.hex, loading
+[21:27:34] [ForkJoinPool.commonPool-worker-7/INFO] (Auth Me) The Minecraft session is valid
+[21:27:35] [Worker-Main-8/WARN] (Minecraft) Missing block model: 'minecraft:builtin/entity'
+[21:27:35] [Worker-Main-8/WARN] (Minecraft) Missing block model: 'minecraft:item/white_banner'
+[21:27:36] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model minecraft:vine#east=true,north=false,south=false,up=true,west=true:
+    particle
+[21:27:36] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model minecraft:potion#inventory:
+    particle
+[21:27:36] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[21:27:36] [Render thread/INFO] (Minecraft) Sound engine started
+[21:27:37] [Render thread/INFO] (Minecraft) Created: 8192x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[21:27:37] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[21:27:37] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[21:27:37] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[21:27:37] [Render thread/INFO] (Minecraft) Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[21:27:37] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[21:27:37] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[21:27:37] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[21:27:37] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[21:27:37] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[21:27:37] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[21:27:37] [Render thread/INFO] (Minecraft) Created: 512x512x0 minecraft:textures/atlas/paintings.png-atlas
+[21:27:37] [Render thread/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[21:27:37] [Render thread/INFO] (Minecraft) Created: 1024x1024x0 minecraft:textures/atlas/gui.png-atlas
+[21:27:37] [Render thread/INFO] (Auth Me) Adding auth button to the multiplayer screen
+[21:27:44] [Render thread/INFO] (Minecraft) Stopping!
+[21:27:45] [Thread-4/INFO] (wynntils) Successfully saved translation cache!

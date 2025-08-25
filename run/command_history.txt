@@ -23,3 +23,24 @@
 /kill
 /gamemode creative
 /gamemode spectator
+/class
+/pet
+/g as4
+/switch AS4
+/g deo co th nao ten dai dai xai bomb nhi
+/g duma
+/g ngo tat cai bomb bell di
+/g t treo cho
+/g day r
+/g duma
+/g thank a doctorcond
+/g adu
+/g dc r ne
+/g con 1 cai case nua th
+/switch AS7
+/switch AS2
+/g t ay
+/g yep
+/g t vao xem cach de lay ten sv san out luon lay slot
+/kill
+/g doi doi client
